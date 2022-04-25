@@ -8,3 +8,8 @@
 .sidenav a {
     color: #fff;
 }
+
+.content {
+    padding: 16px;
+    background-color: #fff;
+}
